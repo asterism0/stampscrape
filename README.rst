@@ -8,8 +8,7 @@ Prerequestites
 
 Usage
 -----
-::
-   Usage: stampscrape.py sticker-page
+``Usage: stampscrape.py sticker-page``
 
 TODO
 ----
